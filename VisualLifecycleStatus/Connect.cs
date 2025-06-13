@@ -21,7 +21,7 @@ using ACW = Autodesk.Connectivity.WebServices;
 using ACWT = Autodesk.Connectivity.WebServicesTools;
 using Autodesk.Connectivity.WebServicesTools;
 
-[assembly: ACEF.ApiVersion("4.0")]
+[assembly: ACEF.ApiVersion("30.0")]
 [assembly: ACEF.ExtensionId("985409AE-929F-4677-A68A-6611B6111915")]
 
 namespace VaultApp.VisualLifecycleStatus

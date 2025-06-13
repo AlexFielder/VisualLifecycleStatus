@@ -2,12 +2,12 @@ VISUAL LIFECYCLE STATUS
 
 Introduction:
 ---------------------------------------------
-When using Vault to manage a product’s lifecycle, you know the status that your products are currently in, but you may not have a big picture about the product’s lifecycle management. Visual Lifecycle Status is a tool to show you the big picture of the product lifecycle. With Visual Lifecycle Status, you can easily understand where the product is and where it can move forward. Meanwhile, it provides an easy way to change the lifecycle within the tab view.
+When using Vault to manage a productï¿½s lifecycle, you know the status that your products are currently in, but you may not have a big picture about the productï¿½s lifecycle management. Visual Lifecycle Status is a tool to show you the big picture of the product lifecycle. With Visual Lifecycle Status, you can easily understand where the product is and where it can move forward. Meanwhile, it provides an easy way to change the lifecycle within the tab view.
 
 
 Requirements:
 ---------------------------------------------
-Vault Workgroup/Collaboration/Professional 2012
+Vault Workgroup/Collaboration/Professional 2023
 
 
 How to use:
